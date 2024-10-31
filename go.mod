@@ -14,3 +14,5 @@ require (
 	github.com/google/btree v1.1.2 // indirect
 	golang.org/x/time v0.7.0 // indirect
 )
+
+replace golang.zx2c4.com/wintun => github.com/nbdy/wintun-go v0.0.0-20241031233634-6ecf871acbea
